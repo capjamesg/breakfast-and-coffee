@@ -1,6 +1,6 @@
 # Breakfast and Coffee
 
-![MJ, the mascot for Breakfast and Coffee, dressed as a waffle](mascot.png)
+![MJ, the mascot for Breakfast and Coffee, dressed as a waffle](./public/mascot.png)
 
 Source code for the [Breakfast and Coffee website](https://breakfastand.coffee).
 
