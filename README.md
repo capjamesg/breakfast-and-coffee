@@ -2,7 +2,7 @@
 
 <img src="./public/mascot.png" alt="MJ, the mascot for Breakfast and Coffee, dressed as a waffle" width="200" />
 
-Source code for the [Breakfast and Coffee website](https://breakfastand.coffee).
+Source code for the [Breakfast and Coffee website](https://playground.jamesg.blog/breakfastandcoffee-archive/).
 
 ## License
 
